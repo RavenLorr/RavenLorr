@@ -3,8 +3,11 @@
 
 # 🌿 Welcome to RavenLorr's Mystical Woodlands 🌷
 
+
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9531F7&width=435&lines=Game+Developper;Back-End+Developper;Lead+Developer)](https://git.io/typing-svg)
+
 </div>
 
 ## 🌸 Whisperings the WoodLands 🍃
@@ -20,14 +23,14 @@ Hey Hey I am RavenLorr, mais mon vrai nom est Étienne even if people usualy use
 
 <div align="center">
 ­­´´´
-
-   ____        _    __     __ U _____ u _   _     _       U  ___ u   ____      ____     
-U |  _"\ u U  /"\  u\ \   /"/u\| ___"|/| \ |"|   |"|       \/"_ \/U |  _"\ uU |  _"\ u  
- \| |_) |/  \/ _ \/  \ \ / //  |  _|" <|  \| |>U | | u     | | | | \| |_) |/ \| |_) |/  
-  |  _ <    / ___ \  /\ V /_,-.| |___ U| |\  |u \| |/__.-,_| |_| |  |  _ <    |  _ <    
-  |_| \_\  /_/   \_\U  \_/-(_/ |_____| |_| \_|   |_____|\_)-\___/   |_| \_\   |_| \_\   
-  //   \\_  \\    >>  //       <<   >> ||   \\,-.//  \\      \\     //   \\_  //   \\_  
- (__)  (__)(__)  (__)(__)     (__) (__)(_")  (_/(_")("_)    (__)   (__)  (__)(__)  (__)
+         _______
+        |.-----.|
+        ||x . x||
+        ||_.-._||
+        `--)-(--`
+       __[=== o]___
+      |:::::::::::|\
+jgs   `-=========-`()
 
 ´´´
 
