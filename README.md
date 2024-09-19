@@ -21,18 +21,5 @@ Hey Hey I am RavenLorr, mais mon vrai nom est Étienne even if people usualy use
 
 
 
-<div align="center">
-­­´´´
-         _______
-        |.-----.|
-        ||x . x||
-        ||_.-._||
-        `--)-(--`
-       __[=== o]___
-      |:::::::::::|\
-jgs   `-=========-`()
-
-´´´
-
 *"It’s not a bug; it’s an undocumented feature"*
 </div>
