@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9531F7&width=435&lines=Game+Developper;Back-End+Developper;Lead+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=AA22F7&center=true&vCenter=true&width=435&lines=Game+Developper;Lead+Developper;Full-Stack)](https://git.io/typing-svg)
 
 </div>
 
