@@ -1,25 +1,19 @@
-![Image Not loading](/Image/Banner.png)
+<h1 align="center">Hi 👋, I'm RavenLorr</h1>
+<h4 align="center">Creating better things by listening too the right audience. "A game for everyone is a game for no one" (ArrowHead). Refining my skills everyday, been learning for 5 years and I will still and forever. "Know how to learn. Then, want to learn." (Katherine Johnson) I'm a male in my early 20s from Canada, speaking English and French</h4>
+<h1></h1>
+
+<p>⚡ **"It’s not a bug; it’s an undocumented feature"** </p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/3tiennefortier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3tiennefortier" height="30" width="40" /></a>
+<a href="https://discord.gg/RavenLorr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RavenLorr" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravenlorr&" alt="ravenlorr" /></p>
 
 
-# 🌿 Welcome to RavenLorr's Mystical Woodlands 🌷
-
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=B61AF7&center=true&vCenter=true&width=435&lines=Game+Developer;Lead+Developer;Full-Stack)](https://git.io/typing-svg)
-
-</div>
-
-## 🌸 Whisperings the WoodLands 🍃
-Hey Hey I am RavenLorr, mais mon vrai nom est Étienne even if people usualy use my english name Ethan. My goal is too create better games, better website, better application, better stuff by listening too the right audience. *"A game for everyone is a game for no one" (ArrowHead)*. Refining my skills everyday, been learning for 5 years and I will still and forever. *"Know how to learn. Then, want to learn." (Katherine Johnson)*
-
-🗒️ ***Details about me:*** *I'm a male in my early 20s from Canada🇨🇦, Je parle parfaitement Français and I can perfectly communicate and undestand English*
-
-- 🏆 **Main Skills** Java, cSharp, Lua, JavaScript. I also know C++, Python and i'm often using React.js.
-- 🎯 **Futur Goals** Leaning more about AI programation where I'll be testing every language like python for prototyping, C++ for performance, Java for Larger Scale Applications but mostly Julia for Hight Performance.
-- 💻 **Working On** Mobile Video Game, A React WebSite, Technology Watch as always^^ because *"Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road." (Stewart Brand)*, Lua based script for Video Game and leaning about Mobile Application.
-
-
-
-*"It’s not a bug; it’s an undocumented feature"*
-</div>
+<p>"Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road." (Stewart Brand)</p>
